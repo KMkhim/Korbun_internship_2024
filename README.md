@@ -37,7 +37,7 @@ pip install -r requirements.txt
 - prediction -> predict แต่สุดท้ายใช้ track ค่ะ
 - read_frame() -> read()
 - เคาะ annotator.box_label 1 tab
-- เตาะ frame = draw_boxes(frame, result.boxes) 1 tab
+- เคาะ frame = draw_boxes(frame, result.boxes) 1 tab
 
 
 ## แหล่งอ้างอิงโค้ด
