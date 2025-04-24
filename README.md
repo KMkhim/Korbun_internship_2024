@@ -26,6 +26,9 @@ pip install -r requirements.txt
 
 ภาพตัวอย่างที่ได้จากวิดีโอ
 
+<img width="450" alt="Image" src="https://github.com/user-attachments/assets/0db525a3-0ff4-4dc5-9b1e-c9ca3f2d799b" />
+
+<img width="450" alt="Image" src="https://github.com/user-attachments/assets/722efa05-8a9b-40d9-ae42-788b4c5433f8" />
 
 ## Error ที่เจอ
 
